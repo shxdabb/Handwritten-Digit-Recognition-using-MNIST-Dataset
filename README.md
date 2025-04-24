@@ -56,4 +56,4 @@ MIT License
 
 ## 👤 Author
 
-Siddhant Shende  
+Shadab Perwez
