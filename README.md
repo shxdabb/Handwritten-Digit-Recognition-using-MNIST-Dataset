@@ -13,7 +13,7 @@ This project uses a deep learning model built with TensorFlow/Keras to recognize
 - TensorFlow  
 - Keras 
 - NumPy
-- Matplotlib
+- Matplotlib 
 
 ## 🖥️ How to Run 
 
