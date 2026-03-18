@@ -9,7 +9,7 @@ This project uses a deep learning model built with TensorFlow/Keras to recognize
 - **Output Layer**: 10 neurons, Softmax activation
 
 ## 📦 Libraries Used 
- 
+  
 - TensorFlow  
    Keras 
 - NumPy
