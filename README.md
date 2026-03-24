@@ -17,7 +17,7 @@ This project uses a deep learning model built with TensorFlow/Keras to recognize
   
 ## 🖥️ How to Run     
 
- Clone the repository   
+ Clone the repository    
 ```bash
 git clone https://github.com/shxdabb/Handwritten-Digit-Recognition-using-MNIST-Dataset.git
 ```
