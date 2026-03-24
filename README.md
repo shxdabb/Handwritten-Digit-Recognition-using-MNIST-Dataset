@@ -15,7 +15,7 @@ This project uses a deep learning model built with TensorFlow/Keras to recognize
 - NumPy
 - Matplotlib 
   
-## 🖥️ How to Run    
+## 🖥️ How to Run     
 
  Clone the repository   
 ```bash
